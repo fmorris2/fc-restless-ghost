@@ -44,7 +44,7 @@ public abstract class CoffinTask extends BasicInteractionTask
 	@Override
 	protected int getRadius()
 	{
-		return 5;
+		return 10;
 	}
 
 	@Override
